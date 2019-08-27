@@ -1,2 +1,2 @@
 # ds_programming
-This repository contains programming assignment based on data structures.
+This repository contains data structures based programming assignment.
