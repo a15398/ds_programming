@@ -10,7 +10,7 @@ WordFilter(["apple"])
 WordFilter.f("a", "e") // returns 0
 WordFilter.f("b", "") // returns -1
  */
-class WordFilter {
+class WordFilter { 
     String[] words;
     public WordFilter(String[] words) {
         this.words = words;
